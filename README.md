@@ -53,6 +53,7 @@ Pat = Total number of utility patents produced
 <br/>
 
 Pop = Total Population (control)
+
 &nbsp;&nbsp;&nbsp;&nbsp;Source: Bureau of Economic Anslysis Regional Data - GDP and Personal Income - CAINC30 Economic profile (https://apps.bea.gov/itable/?ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIxMiJdLFsiTWFqb3JfQXJlYSIsIjUiXSxbIlN0YXRlIixbIjUiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIjEwMCJdXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyItMSJdXSxbIlllYXJCZWdpbiIsIi0xIl0sWyJZZWFyX0VuZCIsIi0xIl1dfQ==)
 
 <br/>
