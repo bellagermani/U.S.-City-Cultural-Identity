@@ -4,7 +4,8 @@ This Python code imports data from multiple sources, cleans, merges, and exports
 
 
 ### Data:
-The unit of study is Metropolitan Statistical Area (MSA).
+The unit of study is Metropolitan Statistical Area (MSA)
+
 Each variable in the final dataset includes values between 2010 & 2015 only.
 
 
