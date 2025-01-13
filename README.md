@@ -14,7 +14,7 @@ Num Cult Estab = Number of cultural establishments present per every 100,000 cit
 
 &nbsp;&nbsp;&nbsp;&nbsp;Source: NADAC Local Arts Index (https://www.icpsr.umich.edu/web/NADAC/studies/36984#) 
 
-
+<br/>
 
 Percent Emp = Percent of population working in the Arts, Entertainment, & Recreational industries. Constructed from Total Employment & AER Employment
 
