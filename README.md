@@ -12,7 +12,7 @@ Each variable in the final dataset includes values between 2010 & 2015 only.
 ### Variables:
 Num Cult Estab = Number of cultural establishments present per every 100,000 people (NOT INCLUDED IN FINAL DATASET- not enough availability over time)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Source: NADAC Local Arts Index (https://www.icpsr.umich.edu/web/NADAC/studies/36984#) 
+&nbsp;&nbsp;&nbsp;&nbsp; - Source: NADAC Local Arts Index (https://www.icpsr.umich.edu/web/NADAC/studies/36984#) 
 
 <br/>
 
