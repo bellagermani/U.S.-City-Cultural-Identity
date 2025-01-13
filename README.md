@@ -11,9 +11,11 @@ Each variable in the final dataset includes values between 2010 & 2015 only.
 
 ### Variables:
 Num Cult Estab = Number of cultural establishments present per every 100,000 citizens (NOT INCLUDED IN FINAL DATASET- not enough availability over time)
+
 &nbsp;&nbsp;&nbsp;&nbsp;Source: NADAC Local Arts Index (https://www.icpsr.umich.edu/web/NADAC/studies/36984#) 
 
 Percent Emp = Percent of population working in the Arts, Entertainment, & Recreational industries. Constructed from Total Employment & AER Employment
+
 	Total Employment = Total number of people employed
 		Source: Bureau of Economic Analysis Regional Data - GDP and Personal Income (https://apps.bea.gov/itable/ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIzMyJdLFsiTWFqb3JfQXJlYSIsIjUiXSxbIlN0YXRIixbIjUiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIjEwIl1dLFsiVW5pdF9vZl9tZWFzdXJlIiwiTGV2ZWxzIl0sWyJZZWFyIixbIi0xIl1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJRW5kIiwiLTEiXV19)
 	AER Employment = Total number of people employed in the Arts, Entertainment, & Recreational industries
