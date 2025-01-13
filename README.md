@@ -28,7 +28,7 @@ Percent Emp = Percent of population working in the Arts, Entertainment, & Recrea
 
 <br/>
 
-Fborn Pop = Total number of foreign-born people included in the population
+Fborn Pop = Total number of foreign-born people who are part of the population
 
 &nbsp;&nbsp;&nbsp;&nbsp;Source: Census Bureau S0502 - Selected Characteristics of the Foreign-Born Population by Period of Entry Into the United States (https://data.census.gov/table/ACSST5Y2022.S0502?g=010XX00US$31000M1)
 
