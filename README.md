@@ -16,10 +16,13 @@ Num Cult Estab = Number of cultural establishments present per every 100,000 cit
 
 Percent Emp = Percent of population working in the Arts, Entertainment, & Recreational industries. Constructed from Total Employment & AER Employment
 
-	Total Employment = Total number of people employed
-		Source: Bureau of Economic Analysis Regional Data - GDP and Personal Income (https://apps.bea.gov/itable/ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIzMyJdLFsiTWFqb3JfQXJlYSIsIjUiXSxbIlN0YXRIixbIjUiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIjEwIl1dLFsiVW5pdF9vZl9tZWFzdXJlIiwiTGV2ZWxzIl0sWyJZZWFyIixbIi0xIl1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJRW5kIiwiLTEiXV19)
-	AER Employment = Total number of people employed in the Arts, Entertainment, & Recreational industries
-		Source: Bureau of Economic Analysis Regional Data - GDP and Personal Income (https://apps.bea.gov/itable/?ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIzMyJdLFsiTWFqb3JfQXJlYSIsIjUiXSxbIlN0YXRlIixbIjUiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIjE3MDAiXV0sWyJVbml0X29mX21lYXN1cmUiLCJMZXZlbHMiXSxbIlllYXIiLFsiLTEiXV0sWyJZZWFyQmVnaW4iLCItMSJdLFsiWWVhcl9FbmQiLCItMSJdXX0=)
+&nbsp;&nbsp;&nbsp;&nbsp;Total Employment = Total number of people employed
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source: Bureau of Economic Analysis Regional Data - GDP and Personal Income (https://apps.bea.gov/itable/ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIzMyJdLFsiTWFqb3JfQXJlYSIsIjUiXSxbIlN0YXRIixbIjUiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIjEwIl1dLFsiVW5pdF9vZl9tZWFzdXJlIiwiTGV2ZWxzIl0sWyJZZWFyIixbIi0xIl1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJRW5kIiwiLTEiXV19)
+
+&nbsp;&nbsp;&nbsp;&nbsp;AER Employment = Total number of people employed in the Arts, Entertainment, & Recreational industries
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source: Bureau of Economic Analysis Regional Data - GDP and Personal Income (https://apps.bea.gov/itable/?ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIzMyJdLFsiTWFqb3JfQXJlYSIsIjUiXSxbIlN0YXRlIixbIjUiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIjE3MDAiXV0sWyJVbml0X29mX21lYXN1cmUiLCJMZXZlbHMiXSxbIlllYXIiLFsiLTEiXV0sWyJZZWFyQmVnaW4iLCItMSJdLFsiWWVhcl9FbmQiLCItMSJdXX0=)
 
 Fborn Pop = Total number of foreign-born people are included in the population
 	Source: Census Bureau S0502 - Selected Characteristics of the Foreign-Born Population by Period of Entry Into the United States (https://data.census.gov/table/ACSST5Y2022.S0502?g=010XX00US$31000M1)
