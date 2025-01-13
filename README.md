@@ -1,5 +1,5 @@
 # U.S. City Cultural Identity
-This Python code imports data from multiple sources, cleans, merges, and exports a final dataset that will be used to examine the relationship between various cultural aspects of U.S. cities and their innovation outputs.
+This jupyter notebook imports data from multiple sources, cleans, merges, and exports a final dataset that will be used to examine the relationship between various cultural aspects of U.S. cities and their innovation outputs.
 
 
 
